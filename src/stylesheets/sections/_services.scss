@@ -7,6 +7,7 @@
   &__content {
     padding: 1rem;
     margin-top: 0;
+    max-height: 50%;
 
     p {
       font-size: 0.8rem;
@@ -32,6 +33,7 @@
 
   &__pic {
     max-width: 100%;
+    
     
   }
 }

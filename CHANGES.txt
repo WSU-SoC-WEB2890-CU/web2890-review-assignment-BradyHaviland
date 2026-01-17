@@ -2,8 +2,8 @@ TODO: List here all the changes you made to given template to adapt it to your n
 1 - Took out the trusted companies because that doesn't make sense to my website of being a developer without a reputation.
 2 - Got rid of the logo up top, as I didn't like it and it wasn't the right color. Getting rid of it also helped simplify this website.
 3 - Got rid of most of the footer containers where only the copyright is shown. It had a lot of unneccessary content.
-4 - 
-5 -
+4 - Got rid of the 100% satisfaction gurantee section. Since I am asking for feedback, more than being confident in my skills.
+5 - Listed the form elements as required because I need all those filled out.
 6 -
 7 -
 8 -
