@@ -9,22 +9,26 @@
 }
 
 .intros {
-  .video-box {
+  .selfie {
     position: relative;
+    aspect-ratio: 1;
+    shape-outside: circle(80%);
+    clip-path: circle(50%);
+    width: 60%;
 
-    a {
-      span {
-        height: 6rem;
-        line-height: 6rem;
+    // a {
+    //   span {
+    //     height: 6rem;
+    //     line-height: 6rem;
 
-        i {
+    //     i {
 
-          font-size: 6rem;
-          color: $orange;
+    //       font-size: 6rem;
+    //       color: $orange;
 
-        }
-      }
-    }
+    //     }
+    //   }
+    // }
   }
 }
 
